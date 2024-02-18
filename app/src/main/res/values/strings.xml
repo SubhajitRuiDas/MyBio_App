@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyBio</string>
+    <string name="name_value">Subhajit RuiDas</string>
+    <string name="bioText">Hello, my name is Subhajit RuiDas , and I learn Android Development
+    \n\n My mission is to learn Android Development from this course and explore the Android Dev World .
+    I am already the journey of Android Dev and by creating this project i will learn a little bit more.I will also learn Fullter Hybride development after this course.
+    I am a btech 2nd year student and I am from Kolkata, name of my college is University of Engineering and management. My name is <u><i>Subhajit RuiDas</i></u>
+    and my goal is to be good softwear engineer . I want to make lots of efficient projects after learning from this course.
+    I am enjoying time while I am with coding .I targeted myself is to make outstanding projects for my resume .If get time after learning Android I will also
+    learn backend development it is aim. I choose android dev bcoz it is interesting and unique.
+    \n\n Thankyou so much for being here.</string>
+    <string name="hobby_hint_text">Enter your hobby:</string>
+    <string name="button_name">Done</string>
+    <string name="image_description">Android image logo</string>
+</resources>
